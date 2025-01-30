@@ -38,7 +38,7 @@ Os scripts para criação e modificação do banco de dados estão localizados n
 2. Execute os scripts `.sql` na ordem necessária.
 3. Diagrama relacional:
 
-   [![Diagrama relacional](SQL/View.png)]
+   ![Diagrama relacional](SQL/pedidos_db.png)
 
 ## Contato
 Caso tenha dúvidas ou precise de suporte, entre em contato.
