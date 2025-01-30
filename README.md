@@ -23,22 +23,19 @@ O arquivo `config.ini` é essencial para definir as informações de conexão ao
 
 ```ini
 [Database]
-Database=nome_do_banco_de_dados
-Username=usuario_do_banco
-Server=ip_ou_hostname_do_servidor
-Port=3306  ; Porta padrão do MySQL
-Password=senha_do_banco  ; Não há necessidade de criptografar
-
-[Library]
-CaminhoDll=libmysql.dll  ; Caminho para a biblioteca do MySQL
+Database=pedidos_db
+Username=root
+Server=localhost
+Port=3306 
+Password=xxxx 
+CaminhoDll=libmysql.dll  
 ```
 
 ## Como Utilizar os Scripts SQL
 Os scripts para criação e modificação do banco de dados estão localizados na pasta `SQL`. Para aplicar as alterações, siga os seguintes passos:
 
 1. Abra um cliente MySQL como **MySQL Workbench** ou utilize o terminal.
-2. Conecte-se ao banco de dados usando as credenciais do `config.ini`.
-3. Execute os scripts `.sql` na ordem necessária.
+2. Execute os scripts `.sql` na ordem necessária.
 
 ## Contato
 Caso tenha dúvidas ou precise de suporte, entre em contato.
