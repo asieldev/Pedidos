@@ -36,6 +36,9 @@ Os scripts para criação e modificação do banco de dados estão localizados n
 
 1. Abra um cliente MySQL como **MySQL Workbench** ou utilize o terminal.
 2. Execute os scripts `.sql` na ordem necessária.
+3. Diagrama relacional:
+
+   [![Diagrama relacional](SQL/View.png)]
 
 ## Contato
 Caso tenha dúvidas ou precise de suporte, entre em contato.
