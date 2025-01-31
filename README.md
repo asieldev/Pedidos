@@ -17,6 +17,7 @@ Para o correto funcionamento do sistema, os seguintes arquivos devem estar na **
 - `config.ini`
 
 Caso algum desses arquivos esteja ausente, o sistema pode apresentar falhas ao tentar conectar ao banco de dados.
+**Complilado na versão do RAD Studio 11 Alexandria Release 2**
 
 ## Configuração do `config.ini`
 O arquivo `config.ini` é essencial para definir as informações de conexão ao banco de dados. Ele deve conter as seguintes configurações:
